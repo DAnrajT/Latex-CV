@@ -1,0 +1,143 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{tabularx}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\pagestyle{empty}
+
+\begin{document}
+
+%======================
+% Header
+%======================
+\begin{center}
+    {\LARGE \textbf{Dhanaraj T}}\\
+    Bengaluru, Karnataka \\
+    \href{tel:+917760794528}{+91-7760794528} \quad
+    \href{mailto:tdhanra090@gmail.com}{tdhanra090@gmail} \quad
+    \href{https://www.linkedin.com/in/dhanaraj-t/}{linkedin.com/in/dhanaraj-t} \quad
+    % \href{https://portfolio-link.com}{Portfolio}
+\end{center}
+
+%======================
+% Profile Summary
+%======================
+\section*{Profile Summary}
+\begin{itemize}[leftmargin=*]
+    \item Manual QA Engineer with 5 years of experience in Software Testing across Web, Mobile, and Smart TV domains. Strong in Functional, Regression, Integration, and UAT testing with solid knowledge of SDLC, STLC, and defect life cycle. Skilled in test case design, defect tracking using JIRA, and testing various apps and device functionalities. Proven track record of delivering quality results under tight deadlines and collaborating with cross-functional teams.
+\end{itemize}
+
+%======================
+% Relevant Coursework
+%======================
+\section*{Key Skills}
+\begin{itemize}[leftmargin=*]
+    \item Manual Testing | Functional, Regression, Integration, UAT
+    \item Test Case Design and Execution | Defect Management
+    \item JIRA, singlex ALM, Confluence, Teraterm, WebRTS, Wbsi, LGUP, Testmode, hyperterminal
+    \item Agile/Scrum Methodologies
+    \item Web and Mobile App Testing
+    \item Smart TV (WebOS), Android Platforms
+    \item Test Documentation | Status Reporting
+\end{itemize}
+
+
+%======================
+% Experience
+%======================
+\section*{Experience}
+\textbf{LG Soft India Pvt. Ltd., Bengaluru - Specialist Test Engineer} \hfill \textit{July 2020 – Present}\\
+\begin{itemize}
+    \item Executed Manual testing on Android smartphones and WebOS Smart TVs, ensuring operating system functionality, performance, and usability.
+    \item Designed and executed detailed test plans and test cases based on system specifications.
+    \item Conducted testing for popular apps like YouTube, Netflix, Amazon Prime, Apple TV, and smart features like DLNA, HDR, Miracast, WI-FI, Bluetooth.
+    \item Participated in requirement analysis, daily stand-ups, and review meetings under Agile/Scrum models.
+    \item Provided UAT support and sanity checks for production releases.
+\end{itemize}
+
+\textbf{Rajendra Infotech, Bengaluru - Tech Support Engineer} \hfill \textit{Jun 2019 – July 2020}\\
+\begin{itemize}
+     \item Provided technical assistance and support to end-users via phone, email, or remote tools.
+     \item Diagnosed and resolved hardware, software, and network issues to minimize downtime.
+     \item Installed, configured, and maintained operating systems, applications, and IT infrastructure.
+     \item Delivered training and guidance to users on system functionalities and best practices.
+\end{itemize}
+
+%======================
+% Projects
+%======================
+\section*{Projects}
+\textbf{WebOS Smart TV Testing | Manual Testing} \hfill \textit{July 2023}\\
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Role:} Senior Software Test Engineer | \textbf{Testing:} Manual |
+\textbf{Tools and Tech:} WebOS 5/6/22/23, JIRA, Confluence, Putty, Tera Term, Wbsi, Defect Observer, Signal Generators, LSS Faker II, OCR Emulator, MSPG-8000, Quantum 980b, SRTS, Test Automation Framework, Alexa, Google Home, PlayStation
+\item \textbf{Description:}
+Worked on validating software quality and feature integration for WebOS Smart TVs across yearly product updates. Advanced TV features tested including Smart Home (IoT), Channels Tuning, USB devices, Casting, DLNA, = Bluetooth, HDR, Dolby Vision, and OTT apps like Netflix, YouTube, and Amazon Prime etc.
+
+\item \textbf{Responsibilities:}
+    \begin{itemize}
+        \item Led team and provided technical support during project initiation.
+    \item Reviewed scope and contributed to project planning.
+    \item Designed test cases and authored test guides for Smart Home/IoT features.
+    \item Performed Sanity, Functional, System, and UAT testing.
+    \item Logged and tracked defects in Singlex ALM with detailed reporting.
+    \item Ensured process compliance in test execution and defect management.
+    \end{itemize}
+
+\end{itemize}
+
+\textbf{Android Smartphone Testing | Manual Testing} \hfill \textit{Oct 2020}\\
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Role:} Software Test Engineer | \textbf{Testing:} Functional Testing | \textbf{Tools} Android 10–13, ADB, JIRA, HP ALM, LGUP, ATS, MLMT, HyperTerminal
+    \item \textbf{Description:}
+Tested software quality of Android smartphones with focus on performance, UI, and feature validation like LG ThinQ, Dual Screen, Active Pen, NFC, Bluetooth, Wi-Fi/Ethernet tethering, and popular 3rd-party apps.
+\item \textbf{Responsibilities:}
+    \begin{itemize}
+    \item Analyzed FRS and created test scenarios/cases.
+    \item Performed Sanity, Functional, Regression, and UAT testing.
+    \item Logged and tracked defects using JIRA and HP ALM.
+    \item Ensured proper execution, reporting, and daily status updates
+    \end{itemize}
+
+\end{itemize}
+
+
+
+
+%======================
+% Education
+%======================
+\section*{Education}
+\textbf{Jain University}, Bengeluru \\
+MCA– Computer Science and IT (Persuing) \hfill \textit{July 2025 – Aug 2025}\\
+\textbf{CGPA:} 8.45 \\
+\textbf{Jnana Jyothi Degree College}, Yelahanka, Bengeluru \\
+BCA– Bacholer's of computer application \hfill \textit{July 2016 – Jun 2019}\\
+\textbf{CGPA:} 7.97
+
+%======================
+% Achivements
+%======================
+\section*{Achivements}
+\begin{itemize}[leftmargin=*]
+    \item Spotlight Award – LG Soft India (2023)
+    \item High Achiever of the Year – LG Soft India (2022)
+\end{itemize}
+
+%======================
+% Personal Details 
+%======================
+\section*{Personal Details}
+\begin{itemize}[leftmargin=*]
+    \item Languages: English, Kannada, Telugu, Hindi, Tamil
+    \item Marital Status: Married
+    \item Date of Birth: 06-02-1999
+\end{itemize}
+\end{document}
